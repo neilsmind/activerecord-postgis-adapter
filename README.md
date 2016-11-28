@@ -461,3 +461,5 @@ a head start on the implementation.
 Copyright Daniel Azuma, Tee Parham
 
 https://github.com/rgeo/activerecord-postgis-adapter/blob/master/LICENSE.txt
+
+TEST
